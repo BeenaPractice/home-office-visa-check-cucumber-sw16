@@ -1,0 +1,75 @@
+2023-07-22 23:07:720 INFO  ManageBrowser :31 - Chrome browser launch..
+2023-07-22 23:07:966 INFO  ManageBrowser :50 - Browser closed
+2023-07-22 23:07:221 INFO  ManageBrowser :31 - Chrome browser launch..
+2023-07-22 23:07:331 INFO  StartPage :19 - click start now 
+2023-07-22 23:07:323 INFO  ManageBrowser :50 - Browser closed
+2023-07-22 23:07:579 INFO  ManageBrowser :31 - Chrome browser launch..
+2023-07-22 23:07:517 INFO  StartPage :19 - click start now 
+2023-07-22 23:07:430 INFO  ManageBrowser :50 - Browser closed
+2023-07-22 23:07:809 INFO  ManageBrowser :31 - Chrome browser launch..
+2023-07-22 23:07:809 INFO  StartPage :19 - click start now 
+2023-07-22 23:07:978 INFO  SelectNationalityPage :23 - Select Nationality
+2023-07-22 23:07:104 INFO  SelectNationalityPage :28 - click on next step button
+2023-07-22 23:07:165 INFO  ManageBrowser :50 - Browser closed
+2023-07-22 23:07:561 INFO  ManageBrowser :31 - Chrome browser launch..
+2023-07-22 23:07:174 INFO  StartPage :19 - click start now 
+2023-07-22 23:07:314 INFO  SelectNationalityPage :23 - Select Nationality
+2023-07-22 23:07:436 INFO  SelectNationalityPage :28 - click on next step button
+2023-07-22 23:07:656 INFO  ReasonForTravelPage :26 - Select reason forTourism
+2023-07-22 23:07:719 INFO  SelectNationalityPage :28 - click on next step button
+2023-07-22 23:07:584 INFO  ManageBrowser :50 - Browser closed
+2023-07-22 23:07:839 INFO  ManageBrowser :31 - Chrome browser launch..
+2023-07-22 23:07:638 INFO  StartPage :19 - click start now 
+2023-07-22 23:07:877 INFO  SelectNationalityPage :23 - Select Nationality
+2023-07-22 23:07:996 INFO  SelectNationalityPage :28 - click on next step button
+2023-07-22 23:07:186 INFO  ReasonForTravelPage :26 - Select reason forTourism
+2023-07-22 23:07:248 INFO  SelectNationalityPage :28 - click on next step button
+2023-07-22 23:07:437 INFO  ManageBrowser :30 - Get result message for tourism
+2023-07-22 23:07:202 INFO  ManageBrowser :50 - Browser closed
+2023-07-22 23:07:445 INFO  ManageBrowser :31 - Chrome browser launch..
+2023-07-22 23:07:547 INFO  StartPage :19 - click start now 
+2023-07-22 23:07:868 INFO  SelectNationalityPage :23 - Select Nationality
+2023-07-22 23:07:168 INFO  SelectNationalityPage :28 - click on next step button
+2023-07-22 23:07:135 INFO  ManageBrowser :50 - Browser closed
+2023-07-22 23:07:180 INFO  ManageBrowser :31 - Chrome browser launch..
+2023-07-22 23:07:431 INFO  StartPage :19 - click start now 
+2023-07-22 23:07:791 INFO  SelectNationalityPage :23 - Select Nationality
+2023-07-22 23:07:38 INFO  SelectNationalityPage :28 - click on next step button
+2023-07-22 23:07:314 INFO  ReasonForTravelPage :26 - Select reason forTourism
+2023-07-22 23:07:534 INFO  SelectNationalityPage :28 - click on next step button
+2023-07-22 23:07:829 INFO  ManageBrowser :30 - Get result message for tourism
+2023-07-22 23:07:742 INFO  ManageBrowser :50 - Browser closed
+2023-07-23 00:07:494 INFO  ManageBrowser :31 - Chrome browser launch..
+2023-07-23 00:07:763 INFO  StartPage :19 - click start now 
+2023-07-23 00:07:172 INFO  SelectNationalityPage :23 - Select Nationality
+2023-07-23 00:07:445 INFO  SelectNationalityPage :28 - click on next step button
+2023-07-23 00:07:768 INFO  ReasonForTravelPage :26 - Select reason forTourism
+2023-07-23 00:07:917 INFO  SelectNationalityPage :28 - click on next step button
+2023-07-23 00:07:160 INFO  ManageBrowser :30 - Get result message for tourism
+2023-07-23 00:07:388 INFO  ManageBrowser :50 - Browser closed
+2023-07-23 00:07:248 INFO  ManageBrowser :31 - Chrome browser launch..
+2023-07-23 00:07:366 INFO  StartPage :19 - click start now 
+2023-07-23 00:07:22 INFO  SelectNationalityPage :23 - Select Nationality
+2023-07-23 00:07:441 INFO  SelectNationalityPage :28 - click on next step button
+2023-07-23 00:07:980 INFO  ReasonForTravelPage :26 - Select reason forTourism
+2023-07-23 00:07:260 INFO  SelectNationalityPage :28 - click on next step button
+2023-07-23 00:07:580 INFO  ManageBrowser :30 - Get result message for tourism
+2023-07-23 00:07:163 INFO  ManageBrowser :50 - Browser closed
+2023-07-23 00:07:291 INFO  ManageBrowser :31 - Chrome browser launch..
+2023-07-23 00:07:551 INFO  StartPage :19 - click start now 
+2023-07-23 00:07:945 INFO  SelectNationalityPage :23 - Select Nationality
+2023-07-23 00:07:225 INFO  SelectNationalityPage :28 - click on next step button
+2023-07-23 00:07:483 INFO  ManageBrowser :50 - Browser closed
+2023-07-23 00:07:668 INFO  ManageBrowser :31 - Chrome browser launch..
+2023-07-23 00:07:734 INFO  StartPage :19 - click start now 
+2023-07-23 00:07:104 INFO  SelectNationalityPage :23 - Select Nationality
+2023-07-23 00:07:362 INFO  SelectNationalityPage :28 - click on next step button
+2023-07-23 00:07:702 INFO  ManageBrowser :50 - Browser closed
+2023-07-23 00:07:948 INFO  ManageBrowser :31 - Chrome browser launch..
+2023-07-23 00:07:959 INFO  StartPage :19 - click start now 
+2023-07-23 00:07:389 INFO  SelectNationalityPage :23 - Select Nationality
+2023-07-23 00:07:637 INFO  SelectNationalityPage :28 - click on next step button
+2023-07-23 00:07:01 INFO  ReasonForTravelPage :26 - Select reason for tourism
+2023-07-23 00:07:130 INFO  SelectNationalityPage :28 - click on next step button
+2023-07-23 00:07:406 INFO  ManageBrowser :30 - Get result message for tourism
+2023-07-23 00:07:685 INFO  ManageBrowser :50 - Browser closed

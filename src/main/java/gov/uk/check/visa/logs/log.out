@@ -1,0 +1,68 @@
+2023-07-24 12:07:886 INFO  ManageBrowser :31 - Chrome browser launch..
+2023-07-24 12:07:818 INFO  StartPage :19 - click start now 
+2023-07-24 12:07:206 INFO  ManageBrowser :50 - Browser closed
+2023-07-24 12:07:207 INFO  ManageBrowser :31 - Chrome browser launch..
+2023-07-24 12:07:408 INFO  ManageBrowser :50 - Browser closed
+2023-07-24 12:07:42 INFO  ManageBrowser :31 - Chrome browser launch..
+2023-07-24 12:07:110 INFO  StartPage :19 - click start now 
+2023-07-24 12:07:298 INFO  SelectNationalityPage :23 - Select Nationality
+2023-07-24 12:07:450 INFO  ManageBrowser :50 - Browser closed
+2023-07-24 12:07:587 INFO  ManageBrowser :31 - Chrome browser launch..
+2023-07-24 12:07:586 INFO  SelectNationalityPage :23 - Select Nationality
+2023-07-24 12:07:973 INFO  ManageBrowser :50 - Browser closed
+2023-07-24 12:07:266 INFO  ManageBrowser :31 - Chrome browser launch..
+2023-07-24 12:07:228 INFO  StartPage :19 - click start now 
+2023-07-24 12:07:438 INFO  SelectNationalityPage :23 - Select Nationality
+2023-07-24 12:07:580 INFO  SelectNationalityPage :28 - click on next step button
+2023-07-24 12:07:803 INFO  ReasonForTravelPage :29 - Select reason for tourism
+2023-07-24 12:07:956 INFO  SelectNationalityPage :28 - click on next step button
+2023-07-24 12:07:163 INFO  ManageBrowser :30 - Get result message for tourism
+2023-07-24 12:07:277 INFO  ManageBrowser :50 - Browser closed
+2023-07-24 12:07:919 INFO  ManageBrowser :31 - Chrome browser launch..
+2023-07-24 12:07:973 INFO  SelectNationalityPage :23 - Select Nationality
+2023-07-24 12:07:33 INFO  ManageBrowser :50 - Browser closed
+2023-07-24 12:07:968 INFO  ManageBrowser :31 - Chrome browser launch..
+2023-07-24 12:07:793 INFO  StartPage :19 - click start now 
+2023-07-24 12:07:98 INFO  SelectNationalityPage :23 - Select Nationality
+2023-07-24 12:07:306 INFO  SelectNationalityPage :28 - click on next step button
+2023-07-24 12:07:459 INFO  ReasonForTravelPage :29 - Select reason for tourism
+2023-07-24 12:07:686 INFO  SelectNationalityPage :28 - click on next step button
+2023-07-24 12:07:864 INFO  ManageBrowser :30 - Get result message for tourism
+2023-07-24 12:07:30 INFO  ManageBrowser :50 - Browser closed
+2023-07-24 12:07:20 INFO  ManageBrowser :31 - Chrome browser launch..
+2023-07-24 12:07:797 INFO  StartPage :19 - click start now 
+2023-07-24 12:07:132 INFO  SelectNationalityPage :23 - Select Nationality
+2023-07-24 12:07:356 INFO  SelectNationalityPage :28 - click on next step button
+2023-07-24 12:07:856 INFO  SelectNationalityPage :28 - click on next step button
+2023-07-24 12:07:35 INFO  DurationOfStayPage :28 - select length of stay 
+2023-07-24 12:07:241 INFO  SelectNationalityPage :28 - click on next step button
+2023-07-24 12:07:525 INFO  WorkTypePage :23 - Select job type
+2023-07-24 12:07:654 INFO  SelectNationalityPage :28 - click on next step button
+2023-07-24 12:07:812 INFO  ManageBrowser :41 - get message for health care
+2023-07-24 12:07:40 INFO  ManageBrowser :50 - Browser closed
+2023-07-24 12:07:140 INFO  ManageBrowser :31 - Chrome browser launch..
+2023-07-24 12:07:751 INFO  StartPage :19 - click start now 
+2023-07-24 12:07:378 INFO  SelectNationalityPage :23 - Select Nationality
+2023-07-24 12:07:832 INFO  SelectNationalityPage :28 - click on next step button
+2023-07-24 12:07:87 INFO  ReasonForTravelPage :32 - Select reason for tourism
+2023-07-24 12:07:547 INFO  SelectNationalityPage :28 - click on next step button
+2023-07-24 12:07:863 INFO  ManageBrowser :30 - Get result message for tourism
+2023-07-24 12:07:392 INFO  ManageBrowser :50 - Browser closed
+2023-07-24 12:07:463 INFO  ManageBrowser :31 - Chrome browser launch..
+2023-07-24 12:07:64 INFO  StartPage :19 - click start now 
+2023-07-24 12:07:898 INFO  SelectNationalityPage :23 - Select Nationality
+2023-07-24 12:07:346 INFO  SelectNationalityPage :28 - click on next step button
+2023-07-24 12:07:192 INFO  SelectNationalityPage :28 - click on next step button
+2023-07-24 12:07:756 INFO  DurationOfStayPage :28 - select length of stay 
+2023-07-24 12:07:25 INFO  SelectNationalityPage :28 - click on next step button
+2023-07-24 12:07:577 INFO  WorkTypePage :23 - Select job type
+2023-07-24 12:07:829 INFO  SelectNationalityPage :28 - click on next step button
+2023-07-24 12:07:224 INFO  ManageBrowser :41 - get message for health care
+2023-07-24 12:07:777 INFO  ManageBrowser :50 - Browser closed
+2023-07-24 12:07:892 INFO  ManageBrowser :31 - Chrome browser launch..
+2023-07-24 12:07:737 INFO  StartPage :19 - click start now 
+2023-07-24 12:07:648 INFO  SelectNationalityPage :23 - Select Nationality
+2023-07-24 12:07:532 INFO  SelectNationalityPage :28 - click on next step button
+2023-07-24 12:07:63 INFO  SelectNationalityPage :28 - click on next step button
+2023-07-24 12:07:57 INFO  ManageBrowser :51 - get message for family stay
+2023-07-24 12:07:671 INFO  ManageBrowser :50 - Browser closed
